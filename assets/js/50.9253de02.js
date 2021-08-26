@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[50],{476:function(n,p,o){n.exports=o.p+"assets/img/icon.ca1ef68d.png"}}]);
