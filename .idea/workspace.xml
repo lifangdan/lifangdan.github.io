@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cd36583-64a5-4d2a-8184-0f311a572278" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/views/essay/essay01.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/essay/essay01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/essay/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/essay/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/common.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/common.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/cordova.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/cordova.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/flex.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/flex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/giteePages.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/giteePages.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/iconfont.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/iconfont.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/javaScriptQuestions.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/javaScriptQuestions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/performanceOpti.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/performanceOpti.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/rem.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/rem.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/typeof.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/typeof.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/vue/image.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/vue/image.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/vue/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/vue/table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/vue/vue01.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/vue/vue01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/vue/vue3.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/vue/vue3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/vue/vueDiff.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/vue/vueDiff.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/frontEnd/webSocket.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontEnd/webSocket.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/interview/interview.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/interview/interview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/learningDocs/ES6.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/learningDocs/ES6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/learningDocs/algorithm.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/learningDocs/algorithm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/learningDocs/typescript.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/learningDocs/typescript.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/others/markdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/others/markdown.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/others/print.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/others/print.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/others/ps.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/others/ps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/others/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/others/tools.html" afterDir="false" />
-    </list>
+    <list default="true" id="5cd36583-64a5-4d2a-8184-0f311a572278" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -112,12 +86,6 @@
               <item name="lifangdan.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lifangdan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lifangdan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -153,12 +121,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629967548875</updated>
-      <workItem from="1629967550096" duration="503000" />
+      <workItem from="1629967550096" duration="1166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="503000" />
+    <option name="totallyTimeSpent" value="1166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="481" y="190" width="1418" height="1067" extended-state="0" />
